@@ -1,0 +1,18 @@
+{
+	"title": "2Logic",
+	"width": 1600,
+	"height": 900,
+	"gridSize": 100,
+	"colors": {
+		"grid": [255, 255, 255, 255],
+		"cell": [127, 127, 127, 127],
+		"selected": [255, 255, 0, 127],
+		"text": [255, 255, 255, 0],
+		"hovered": [255, 255, 255, 127],
+		"busy": [255, 0, 0, 127],
+		"free": [0, 255, 127, 127]
+	},
+	"checksubclass": true,
+	"usedefaulttexture": true,
+	"ignoremods": ["IndicatorGate"]
+}
